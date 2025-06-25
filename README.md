@@ -1,4 +1,4 @@
-A Simple program to show case turle racing
+A Simple program to show case turle racing using time , random and turtle modules of python
 
 
 
